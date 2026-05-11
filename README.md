@@ -21,7 +21,7 @@ This project performs **multi-class sentiment analysis** on 205,000+ Flipkart cu
 |---|---|
 | `product_name` | Name of the Flipkart product |
 | `product_price` | Listed price in INR |
-| `Rate` | Customer star rating (1–5) |
+| `Rate` | Customer star rating (1-5) |
 | `Review` | Full-text review |
 | `Summary` | Short review summary |
 | `Sentiment` | Pre-labelled target: `positive`, `neutral`, `negative` |
